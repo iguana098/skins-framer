@@ -1,4 +1,6 @@
-# 🔫 Search and display Counter-Strike 2 items
+# 🔫 Skinsframer
+
+A tool to search and display Counter-Strike 2 items
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://skinsframer.streamlit.app/)
 
