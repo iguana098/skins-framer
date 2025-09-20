@@ -2,7 +2,7 @@
 
 A tool to search and display Counter-Strike 2 items
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://skinsframer.streamlit.app/)
+[![Website](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://skinsframer.streamlit.app/)
 
 ### How to run it on your own machine
 
