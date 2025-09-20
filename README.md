@@ -1,4 +1,4 @@
-# 🔫 Skinsframer
+# 🪟 Skinsframer
 
 A tool to search and display Counter-Strike 2 items
 
