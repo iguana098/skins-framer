@@ -2,7 +2,7 @@ import streamlit as st
 import urllib.parse
 import requests
 
-st.set_page_config(page_title="Skinsframer", page_icon="images/icon.png")
+st.set_page_config(page_title="Skinsframer", page_icon="🖻")
 
 emojis = ["( •_•)", "(⌐■_■)", "(｢• ω •)｢", "＼(ﾟ ｰﾟ＼)", "( ﾉ･o･ )ﾉ"]
 
