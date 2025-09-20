@@ -2,7 +2,7 @@
 
 A simple Streamlit app template for you to modify!
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://skinsframer.streamlit.app/)
+[![Open in Streamlit](https://github.com/iguana098/skins-framer/blob/main/images/icon.png)](https://skinsframer.streamlit.app/)
 
 ### How to run it on your own machine
 
@@ -17,3 +17,5 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+   
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://skinsframer.streamlit.app/)
